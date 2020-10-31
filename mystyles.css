@@ -1,0 +1,49 @@
+body{
+	background-color: #19d3da;
+}
+#container {
+  width: 375px;
+  height: 425px;
+  margin-left: 550px;
+  margin-top: 125px;
+  background-color: #000;
+  padding-left: 60px;
+  color: #fff;
+}
+
+#feet {
+  width: 150px;
+  height: 25px;
+  margin-top: 30px;
+  margin-left: 45px;
+}
+
+#inches {
+  width: 150px;
+  height: 25px;
+  margin-top: 30px;
+	margin-left: 30px;
+}
+
+#result {
+  font-size: 35px;
+  margin-left: 130px;
+  color: yellow;
+}
+
+#submit {
+  width: 250px;
+  height: 35px;
+  margin-left: 45px;
+  margin-top: 60px;
+  border-radius: 5px;
+  border-style: none;
+  background-color: red;
+  color: #fff;
+  font-size: 25px;
+}
+
+h1 {
+  padding-left: 45px;
+  padding-top: 25px;
+}
